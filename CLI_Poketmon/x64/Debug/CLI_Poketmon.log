@@ -1,0 +1,14 @@
+﻿  GameInfo.cpp
+  Item.cpp
+  Main.cpp
+  Player.cpp
+  Poketmon.cpp
+  RhythmGame.cpp
+C:\CodeWork\CLI_Poketmon_Final\RhythmGame.cpp(7,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\CodeWork\CLI_Poketmon_Final\RhythmGame.cpp(43,19): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\CodeWork\CLI_Poketmon_Final\RhythmGame.cpp(49,21): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Skill.cpp
+  코드를 생성하고 있습니다...
+  CLI_Poketmon.vcxproj -> C:\CodeWork\CLI_Poketmon_Final\x64\Debug\CLI_Poketmon.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.

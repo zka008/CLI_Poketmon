@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\CLI_Poketmon_은태\x64\Debug\CLI_Poketmon.exe
+C:\Users\user\Desktop\CLI_Poketmon (2)\x64\Debug\CLI_Poketmon.exe
+C:\Users\전건아\Desktop\CLI_Poketmon (2)\x64\Debug\CLI_Poketmon.exe
+C:\Users\user\Desktop\CLI_Poketmon (02.15)\x64\Debug\CLI_Poketmon.exe
+C:\Users\user\Desktop\CLI_Poketmon (02.15) (1)\x64\Debug\CLI_Poketmon.exe
+C:\Users\user\Desktop\CLI_Poketmon (02.15) new\x64\Debug\CLI_Poketmon.exe
+C:\Users\user\Desktop\CLI_Poketmon_Final\x64\Debug\CLI_Poketmon.exe
+C:\C++\4_team\4조_포켓몬\4조 발표자료(최종)\CLI_Poketmon_Final\x64\Debug\CLI_Poketmon.exe
