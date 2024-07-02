@@ -10,7 +10,10 @@
 # Precompiled Headers
 *.gch
 *.pch
+<<<<<<< HEAD
 *.ipch
+=======
+>>>>>>> 101819db43634b2c00365fd64a213ab106a52c5f
 
 # Compiled Dynamic libraries
 *.so
